@@ -1,8 +1,8 @@
-# 🚀 Raxcore - Next-Gen Software Development That Actually Works
+# Raxcore - Next-Gen Software Development That Actually Works
 
 Welcome to Raxcore, where we build the future of software development. We're not just another dev shop - we're a next-generation startup that actually delivers results.
 
-## 🌟 What Makes Us Different
+## What Makes Us Different
 
 - **Real Results**: We ship working software, not just promises
 - **Cutting-Edge Tech**: We use the latest tools and frameworks
@@ -10,51 +10,51 @@ Welcome to Raxcore, where we build the future of software development. We're not
 - **Kenyan Innovation**: Built in Kisii, Kenya, for the world
 - **No Bullshit**: Just clean code and honest communication
 
-## 🎯 Our Services
+## Our Services
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 - Custom AI solutions that actually work
 - Machine learning models for real business problems
 - Intelligent automation systems
 
-### 🚀 Web & Mobile Apps
+### Web & Mobile Apps
 - Next.js, React, and modern web apps
 - Cross-platform mobile development
 - Progressive Web Apps (PWAs)
 
-### 📈 Enterprise Software
+### Enterprise Software
 - Scalable backend systems
 - API development and integration
 - Cloud infrastructure
 
-### 🎨 Design & UX
+### Design & UX
 - Modern, responsive interfaces
 - User experience optimization
 - Brand identity design
 
-## 🎯 Our Tech Stack
+## Our Tech Stack
 
-### 🛠️ Frontend
+### Frontend
 - **Next.js 15** - Modern React framework
 - **React 19** - Latest React features
 - **Tailwind CSS** - Utility-first styling
 - **Framer Motion** - Smooth animations
 
-### 🔧 Backend & DevOps
+### Backend & DevOps
 - **Node.js** - JavaScript runtime
 - **PostgreSQL** - Reliable database
 - **Docker** - Containerization
 - **GitHub Actions** - CI/CD
 
-### 🔐 Security & Performance
+### Security & Performance
 - **TypeScript** - Type safety
 - **ESLint** - Code quality
 - **Vercel Analytics** - Performance monitoring
 - **Lighthouse** - Optimization
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
-### 🎨 Color Palette
+### Color Palette
 - **Primary**: Cyan (#22d3ee) - Innovation & clarity
 - **Secondary**: Blue (#3b82f6) - Trust & reliability
 - **Accent**: Red (#ef4444) - Passion & energy
@@ -62,39 +62,39 @@ Welcome to Raxcore, where we build the future of software development. We're not
 - **Backgrounds**: Black (#000000), Dark Gray (#18181b, #27272a)
 - **Text**: White (#ffffff) - Clean & professional
 
-### 🎨 Typography
+### Typography
 - **Geist Sans** - Modern sans-serif
 - **Geist Mono** - Clean monospace for code
 
-## 📊 Performance & Quality
+## Performance & Quality
 
-### 📊 Our Standards
+### Our Standards
 - **Lighthouse Score**: 95+ (We don't ship garbage)
 - **First Contentful Paint**: < 1.5s
 - **Time to Interactive**: < 3.5s
 - **Cumulative Layout Shift**: < 0.1
 
-### 🔒 Security
+### Security
 - TypeScript for type safety
 - Semantic HTML with proper ARIA attributes
 - Alt text for all images
 - Structured data for SEO
 
-## 🚀 Getting Started with Raxcore
+## Getting Started with Raxcore
 
-### 📦 For Customers
+### For Customers
 1. **Contact Us**: info@raxcore.dev
 2. **Tell Us Your Problem**: We listen first
 3. **Get a Solution**: We build what works
 4. **Launch & Iterate**: We're with you for the long haul
 
-### 📦 For Developers
+### For Developers
 1. **Clone the repo**: `git clone https://github.com/Raxcore-dev/raxcore-dev.git`
 2. **Install dependencies**: `npm install`
 3. **Run development**: `npm run dev`
 4. **Build for production**: `npm run build`
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 app/
@@ -118,14 +118,14 @@ components/
     └── textarea.tsx
 ```
 
-## 📞 Contact Us
+## Contact Us
 
 - **Email**: info@raxcore.dev
 - **Phone**: +254714350040
 - **Location**: Kisii, Kenya
 - **Website**: [raxcore.dev](https://raxcore.dev)
 
-## 🌍 About Raxcore
+## About Raxcore
 
 Raxcore is a next-generation software development startup based in Kisii, Kenya. We're building the future of software development with cutting-edge technology, honest communication, and real results.
 
