@@ -94,29 +94,7 @@ Welcome to Raxcore, where we build the future of software development. We're not
 3. **Run development**: `npm run dev`
 4. **Build for production**: `npm run build`
 
-## Project Structure
 
-```
-app/
-├── page.tsx              # Home page
-├── about/
-│   └── page.tsx         # About page
-├── divisions/
-│   └── page.tsx         # Divisions page
-├── contact/
-│   └── page.tsx         # Contact page
-├── layout.tsx           # Root layout with navigation
-├── globals.css          # Global styles and design tokens
-└── sitemap.ts           # Dynamic sitemap
-
-components/
-├── navigation.tsx       # Global navigation bar
-├── footer.tsx          # Global footer
-└── ui/                 # Reusable UI components
-    ├── button.tsx
-    ├── input.tsx
-    └── textarea.tsx
-```
 
 ## Contact Us
 
